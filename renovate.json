@@ -7,7 +7,7 @@
   ],
   "rebaseStalePrs": true,
   "prCreation": "not-pending",
-  "requiredStatusChecks" false,
+  "requiredStatusChecks": null,
   "automerge": "minor",
   "labels": [
     "tooling",
